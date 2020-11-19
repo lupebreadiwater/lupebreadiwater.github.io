@@ -1,1 +1,2 @@
-# lupebreadiwater.github.io
+# personal website 
+hosted at lupepaniagua.me
